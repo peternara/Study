@@ -66,7 +66,7 @@
      * http://www.erogol.com/xnor-net/   
    * Introducing SqueezeDet: low power fully convolutional neural network framework for autonomous driving, [[링크]](https://theinformationageblog.wordpress.com/2017/03/02/introducing-squeezedet-low-power-fully-convolutional-neural-network-framework-for-autonomous-driving/)
    * Quantized Convolutional Neural Networks for Mobile Devices, https://arxiv.org/abs/1512.06473
-      *src) https://github.com/jiaxiang-wu/quantized-cnn
+      * src) https://github.com/jiaxiang-wu/quantized-cnn
 
 ### Face
  * recongition & verification & feature
