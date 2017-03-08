@@ -21,6 +21,7 @@
    * https://github.com/xylcbd/EasyCNN
    * Convolutional Neural Networks (CNNs / ConvNets), http://cs231n.github.io/convolutional-networks/
    * simple_cnn, https://github.com/can1357/simple_cnn
+   * EasyCNN, https://github.com/xylcbd/EasyCNN
  
 ### Study
   * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
