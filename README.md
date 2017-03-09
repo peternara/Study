@@ -138,7 +138,10 @@
  * fcn
    * tf version
      * https://github.com/yuxng/tensorflow-fcn 
-
+ * Pyramid Scene Parsing Network
+   * http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html
+   * https://github.com/CharlesShang/PSPNet
+   
 ### OCR
  * Text Detection
    * SSD, [[링크]](https://github.com/chenxinpeng/SSD_scene_text_detection)
