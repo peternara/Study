@@ -17,6 +17,8 @@
    * kr) http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html
  * Softmax
    * Difference Between Softmax Function and Sigmoid Function,  [[링크]](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
+ * logistic regression model
+   * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
 
 ### CNN
  * 개념이해(위한 소스)
