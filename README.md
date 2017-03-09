@@ -16,7 +16,7 @@
    * en) http://iamtrask.github.io/2015/07/12/basic-python-network/
    * kr) http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html
  * Softmax
-   * Difference Between Softmax Function and Sigmoid Function,  [[링크]]http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
+   * Difference Between Softmax Function and Sigmoid Function,  [[링크]](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
 
 ### CNN
  * 개념이해(위한 소스)
