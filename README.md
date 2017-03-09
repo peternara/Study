@@ -44,6 +44,7 @@
     * 10. TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
     * 11. tf-stanford-tutorials, https://github.com/chiphuyen/tf-stanford-tutorials
     * 12. https://github.com/gicheonkang/TF-Tutorial
+    * 13. https://www.youtube.com/watch?v=g-EvyKpZjmQ
 
 ### Classification
  * Google Inception V3 : https://github.com/smichalowski/google_inception_v3_for_caffe
