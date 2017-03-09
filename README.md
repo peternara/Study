@@ -89,7 +89,10 @@
  * study
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
  * faster rcnn
-   * Faster-RCNN_TF, https://github.com/smallcorgi/Faster-RCNN_TF
+   * tf
+     * Faster-RCNN_TF, https://github.com/smallcorgi/Faster-RCNN_TF
+     * https://github.com/CharlesShang/TFFRCNN
+   
  * Yolo 2, YOLO9000: Better, Faster, Stronger : [[링크]](https://arxiv.org/abs/1612.08242)
    * http://pjreddie.com/darknet/yolo/
  * yolo
