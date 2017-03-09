@@ -44,7 +44,7 @@
     * 10. TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
     * 11. tf-stanford-tutorials, https://github.com/chiphuyen/tf-stanford-tutorials
     * 12. https://github.com/gicheonkang/TF-Tutorial
-    * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
+    * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
     * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
 
 ### Classification
