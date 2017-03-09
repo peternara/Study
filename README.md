@@ -4,9 +4,10 @@
 
 ### 이론 설명
  * http://aikorea.org/cs231n/neural-networks-2-kr/
- * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
-    * 참고자료 : [[링크]](https://www.youtube.com/watch?v=573EZkzfnZ0&index=23&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-    * TF backprop 구현: https://github.com/…/b…/master/lab-09-5-softmax_back_prop.py
+ * Backpropagation
+    * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
+      * 참고자료 : [[링크]](https://www.youtube.com/watch?v=573EZkzfnZ0&index=23&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+      * TF backprop 구현: https://github.com/…/b…/master/lab-09-5-softmax_back_prop.py
  * Understanding CNNs : [[링크]](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
  * Backpropagation 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html#.WHetKmXqyOY.facebook)  
  * 딥러닝 관련 논문 정리 블로그 : [[링크]](http://sanghyukchun.github.io/blog/categories/deep-learning/)
@@ -14,6 +15,8 @@
  * python nn 
    * en) http://iamtrask.github.io/2015/07/12/basic-python-network/
    * kr) http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html
+ * Softmax
+   * Difference Between Softmax Function and Sigmoid Function, http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/
 
 ### CNN
  * 개념이해(위한 소스)
