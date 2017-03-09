@@ -116,7 +116,7 @@
    * study
      * https://docs.google.com/presentation/d/1kAa7NOamBt4calBU9iHgT8a86RRHz9Yz2oh4-GTdX6M/edit#slide=id.g15092aa245_0_184
      * https://pjreddie.com/publications/yolo/
- * pavnet
+ * PVANet
    * https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train
    * https://github.com/sanghoon/pva-faster-rcnn
    * train : https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train
