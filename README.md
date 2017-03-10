@@ -115,7 +115,7 @@
      * v2, https://github.com/biyaa/yolov2_tensorflow
      * https://github.com/rhythm92/tf-yolo/tree/master/src
      * https://github.com/JindongJiang/yolo_tf 
-     * 비교적 깔끔한 소스, 그러나 실제 동작여부는 테스트하지 못함 
+        * 비교적 깔끔한 소스, 그러나 실제 동작여부는 테스트하지 못함 
      * https://github.com/Bobeye/Poirot 
  
    * study
