@@ -176,8 +176,10 @@
  * Realtime Multi-Person Pose Estimation: [[링크]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
  
 ### SLAM
- * ios orb slam, https://github.com/rhythm92/ORB_SLAM-IOS
-
+ * ios orb slam
+   * https://github.com/rhythm92/ORB_SLAM-IOS
+   * https://github.com/egoist-sx/ORB_SLAM_iOS
+  
 ### Implementation
  * Generative models
    * pixel-cnn++, Tensorflow : [[링크]](https://github.com/openai/pixel-cnn?utm_content=buffer0d842&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
