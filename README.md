@@ -114,8 +114,10 @@
      * https://github.com/Nielsyang/YOLOv1_tensorflow
      * v2, https://github.com/biyaa/yolov2_tensorflow
      * https://github.com/rhythm92/tf-yolo/tree/master/src
-     * https://github.com/JindongJiang/yolo_tf
-     * https://github.com/Bobeye/Poirot 
+     * https://github.com/JindongJiang/yolo_tf 
+       * 비교적 깔끔한 소스, 그러나 실제 동작여부는 테스트하지 못함 
+     * https://github.com/Bobeye/Poirot 
+ 
    * study
      * https://docs.google.com/presentation/d/1kAa7NOamBt4calBU9iHgT8a86RRHz9Yz2oh4-GTdX6M/edit#slide=id.g15092aa245_0_184
      * https://pjreddie.com/publications/yolo/
