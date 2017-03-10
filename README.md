@@ -139,7 +139,8 @@
  * Instance Segmentation
  * fcn
    * tf version
-     * https://github.com/yuxng/tensorflow-fcn 
+     * https://github.com/yuxng/tensorflow-fcn
+     * https://github.com/JindongJiang/FCN.tensorflow
  * Pyramid Scene Parsing Network
    * http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html
    * https://github.com/CharlesShang/PSPNet
