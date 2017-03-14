@@ -21,6 +21,7 @@
    * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
  * Machine learning
    * Numerical Computation, http://www.deeplearningbook.org/contents/numerical.html
+   * Introduction to Machine Learning, Amnon Shashua, https://arxiv.org/abs/0904.3664
  
 ### CNN
  * 개념이해(위한 소스)
