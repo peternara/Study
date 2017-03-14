@@ -19,7 +19,9 @@
    * Difference Between Softmax Function and Sigmoid Function,  [[링크]](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
  * logistic regression model
    * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
-
+ * Machine learning
+   * Numerical Computation, http://www.deeplearningbook.org/contents/numerical.html
+ 
 ### CNN
  * 개념이해(위한 소스)
    * opencv based, https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp  
