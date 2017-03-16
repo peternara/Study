@@ -75,11 +75,12 @@
  * Binary network 
    * XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks : [[링크]](https://arxiv.org/abs/1603.05279)
      * http://www.erogol.com/xnor-net/ 
+   * Quantized Convolutional Neural Networks for Mobile Devices, https://arxiv.org/abs/1512.06473
+     * src) https://github.com/jiaxiang-wu/quantized-cnn  
    * SqueezeNet 
      * https://github.com/DT42/squeezenet_demo  
      * Introducing SqueezeDet: low power fully convolutional neural network framework for autonomous driving, [[링크]](https://theinformationageblog.wordpress.com/2017/03/02/introducing-squeezedet-low-power-fully-convolutional-neural-network-framework-for-autonomous-driving/)
-     * Quantized Convolutional Neural Networks for Mobile Devices, https://arxiv.org/abs/1512.06473
-       * src) https://github.com/jiaxiang-wu/quantized-cnn
+     
 
 ### Face
  * recongition & verification & feature
