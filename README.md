@@ -52,7 +52,8 @@
     * 12. https://github.com/gicheonkang/TF-Tutorial
     * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
     * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
-
+    * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
+    
 ### Classification
  * Google Inception V3 : https://github.com/smichalowski/google_inception_v3_for_caffe
  * batch normalization
@@ -103,7 +104,6 @@
  * Yolo 2, YOLO9000: Better, Faster, Stronger : [[링크]](https://arxiv.org/abs/1612.08242)
    * http://pjreddie.com/darknet/yolo/
  * yolo
-   * blog, https://curt-park.github.io/2017-03-26/yolo/
    * yolo, https://pjreddie.com/publications/
    * Caffe Yolo
      * https://github.com/yeahkun/caffe-yolo
@@ -124,11 +124,12 @@
      * https://github.com/rhythm92/tf-yolo/tree/master/src
      * https://github.com/JindongJiang/yolo_tf 
         * 비교적 깔끔한 소스, 그러나 실제 동작여부는 테스트하지 못함 
-     * https://github.com/Bobeye/Poirot 
- 
+     * https://github.com/Bobeye/Poirot  
    * study
      * https://docs.google.com/presentation/d/1kAa7NOamBt4calBU9iHgT8a86RRHz9Yz2oh4-GTdX6M/edit#slide=id.g15092aa245_0_184
      * https://pjreddie.com/publications/yolo/
+     * video, https://www.youtube.com/watch?v=L0tzmv--CGY&feature=youtu.be
+     * blog, https://curt-park.github.io/2017-03-26/yolo/
  * PVANet
    * https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train
    * https://github.com/sanghoon/pva-faster-rcnn
