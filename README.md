@@ -103,6 +103,7 @@
  * Yolo 2, YOLO9000: Better, Faster, Stronger : [[링크]](https://arxiv.org/abs/1612.08242)
    * http://pjreddie.com/darknet/yolo/
  * yolo
+   * blog, https://curt-park.github.io/2017-03-26/yolo/
    * yolo, https://pjreddie.com/publications/
    * Caffe Yolo
      * https://github.com/yeahkun/caffe-yolo
