@@ -44,6 +44,7 @@
     * BVLC/caffe, Developing new layers, Developing new layers, [[링크]](https://github.com/BVLC/caffe/wiki/Development)
     * Data Parser in Caffe, [[링크]](http://lepsucd.com/?p=453)
     * Simple Example: Sin Layer, Making Your First Layer, [[링크]](https://github.com/BVLC/caffe/wiki/Simple-Example:-Sin-Layer)
+    * Add new layer to Caffe, [[링크]](http://blog.deepsemantic.com/2015/08/01/Add-new-layer-to-Caffe/)
   * TensorFlow Tutorial
     * 1. https://github.com/sherrym/tf-tutorial  
     * 2. RNN 모델
