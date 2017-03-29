@@ -25,6 +25,7 @@
    * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
  * Collection of morning papers on Convolutional Neural Networks, [[링크]](https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/)  
  * Efficient Processing of Deep Neural Networks: A Tutorial and Survey, [[링크]](https://arxiv.org/abs/1703.09039)
+ * CNNs from different viewpoints, Prerequisite: Basic neural networks, [[링크]](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
  
 ### CNN
  * 개념이해(위한 소스)
