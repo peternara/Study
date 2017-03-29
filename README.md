@@ -42,6 +42,8 @@
     * Caffe c++ helloworld example with MemoryData input, [[링크]](https://medium.com/@shiyan/caffe-c-helloworld-example-with-memorydata-input-20c692a82a22)
     * Making a Caffe Layer, [[링크]](https://chrischoy.github.io/research/making-caffe-layer/)
     * BVLC/caffe, Developing new layers, Developing new layers, [[링크]](https://github.com/BVLC/caffe/wiki/Development)
+    * Data Parser in Caffe, [[링크]](http://lepsucd.com/?p=453)
+    * Simple Example: Sin Layer, Making Your First Layer, [[링크]](https://github.com/BVLC/caffe/wiki/Simple-Example:-Sin-Layer)
   * TensorFlow Tutorial
     * 1. https://github.com/sherrym/tf-tutorial  
     * 2. RNN 모델
