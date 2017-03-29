@@ -28,8 +28,8 @@
  
 ### CNN
  * 개념이해(위한 소스)
-   * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp  
-   * https://github.com/xylcbd/EasyCNN)
+   * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp)
+   * https://github.com/xylcbd/EasyCNN
    * Convolutional Neural Networks (CNNs / ConvNets), [[링크]](http://cs231n.github.io/convolutional-networks/)
    * simple_cnn, [[링크]](https://github.com/can1357/simple_cnn)
    * EasyCNN, [[링크]](https://github.com/xylcbd/EasyCNN)
@@ -39,18 +39,18 @@
   * TensorFlow Tutorial
     * 1. https://github.com/sherrym/tf-tutorial  
     * 2. RNN 모델
-      * part 1 :  https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p
-      * part 2 : https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p
-      * yutube : https://www.youtube.com/watch?v=vq2nnJ4g6N0
+      * part 1 : [[링크]](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
+      * part 2 : [[링크]](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
+      * yutube : [[링크]](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
     * 3. https://github.com/golbin/TensorFlow-Tutorials
-    * 4. TensorFlow in 5 Minutes, https://www.youtube.com/watch?v=2FmcHiLCwTU&feature=share, 
-    * 5. Getting started with Tensorflow, https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
-    * 6. https://www.youtube.com/watch?v=wuo4JdG3SvU
-    * 7. 정리 : https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895
-    * 8. TensorFlow Tutorial, http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086
-    * 9. CS 20SI: Tensorflow for Deep Learning Research, http://web.stanford.edu/class/cs20si/syllabus.html
-    * 10. TensorFlow Basic Tutorial Labs, https://github.com/hunkim/DeepLearningZeroToAll
-    * 11. tf-stanford-tutorials, https://github.com/chiphuyen/tf-stanford-tutorials
+    * 4. TensorFlow in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=2FmcHiLCwTU&feature=share)
+    * 5. Getting started with Tensorflow, [[링크]](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
+    * 6. https://www.youtube.com/watch?v=wuo4JdG3SvU)
+    * 7. 정리 : [[링크]](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
+    * 8. TensorFlow Tutorial, [[링크]](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
+    * 9. CS 20SI: Tensorflow for Deep Learning Research, [[링크]](http://web.stanford.edu/class/cs20si/syllabus.html)
+    * 10. TensorFlow Basic Tutorial Labs, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll)
+    * 11. tf-stanford-tutorials, [[링크]](https://github.com/chiphuyen/tf-stanford-tutorials)
     * 12. https://github.com/gicheonkang/TF-Tutorial
     * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
     * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
