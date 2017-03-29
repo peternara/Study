@@ -39,6 +39,9 @@
   * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
   * Caffe C++
     * C++ Example 1. Hello Caffe, [[링크]](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
+    * Caffe c++ helloworld example with MemoryData input, [[링크]](https://medium.com/@shiyan/caffe-c-helloworld-example-with-memorydata-input-20c692a82a22)
+    * Making a Caffe Layer, [[링크]](https://chrischoy.github.io/research/making-caffe-layer/)
+    * BVLC/caffe, Developing new layers, Developing new layers, [[링크]](https://github.com/BVLC/caffe/wiki/Development)
   * TensorFlow Tutorial
     * 1. https://github.com/sherrym/tf-tutorial  
     * 2. RNN 모델
