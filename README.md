@@ -44,7 +44,7 @@
       * yutube : [[링크]](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
     * 3. https://github.com/golbin/TensorFlow-Tutorials
     * 4. TensorFlow in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=2FmcHiLCwTU&feature=share)
-    * 5. Getting started with Tensorflow, [[링크]](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
+    * 5. Getting started with Tensorflow, [[링크]](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/)
     * 6. https://www.youtube.com/watch?v=wuo4JdG3SvU)
     * 7. 정리 : [[링크]](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
     * 8. TensorFlow Tutorial, [[링크]](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
