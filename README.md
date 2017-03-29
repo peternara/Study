@@ -23,8 +23,9 @@
    * Numerical Computation, [[링크]](http://www.deeplearningbook.org/contents/numerical.html)
    * Introduction to Machine Learning, Amnon Shashua, [[링크]](https://arxiv.org/abs/0904.3664)
    * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
- * Collection of morning papers on Convolutional Neural Networks, https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/  
-   
+ * Collection of morning papers on Convolutional Neural Networks, [[링크]](https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/)  
+ * Efficient Processing of Deep Neural Networks: A Tutorial and Survey, [[링크]](https://arxiv.org/abs/1703.09039)
+ 
 ### CNN
  * 개념이해(위한 소스)
    * opencv based, https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp  
