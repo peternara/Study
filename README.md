@@ -217,6 +217,7 @@
 ## python
   * numpy
     * https://www.youtube.com/watch?v=Fm1sWcdL_ak&t=298s
-
+    * https://github.com/nsoojin/coursera-ml-py
+    
 ## Data Set
   * 정리 : [[링크]](https://github.com/rudvlf0413/Dataset)
