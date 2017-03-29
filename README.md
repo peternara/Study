@@ -56,6 +56,7 @@
     * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
     * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
     * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
+    * 텐서플로우(TensorFlow) 시작하기, [[링크]](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
     
 ### Classification
  * Google Inception V3 : https://github.com/smichalowski/google_inception_v3_for_caffe
