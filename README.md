@@ -28,11 +28,11 @@
  
 ### CNN
  * 개념이해(위한 소스)
-   * opencv based, https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp  
-   * https://github.com/xylcbd/EasyCNN
-   * Convolutional Neural Networks (CNNs / ConvNets), http://cs231n.github.io/convolutional-networks/
-   * simple_cnn, https://github.com/can1357/simple_cnn
-   * EasyCNN, https://github.com/xylcbd/EasyCNN
+   * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp  
+   * https://github.com/xylcbd/EasyCNN)
+   * Convolutional Neural Networks (CNNs / ConvNets), [[링크]](http://cs231n.github.io/convolutional-networks/)
+   * simple_cnn, [[링크]](https://github.com/can1357/simple_cnn)
+   * EasyCNN, [[링크]](https://github.com/xylcbd/EasyCNN)
  
 ### Study
   * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
