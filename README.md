@@ -185,7 +185,10 @@
    * http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html 
  * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets : [[링크]](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
  * GAN 구현강좌 : [[링크]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.3wlynkvpb)
-
+ * DiscoGAN
+   * http://www.modulabs.co.kr/DeepLAB_library/12820
+   * SK T-Brain Research, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
+   
 ### Style Transfer
  * Style Transfer in Real-Time : [[링크]](https://shafeentejani.github.io/2017-01-03/fast-style-transfer/)
  
