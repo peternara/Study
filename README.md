@@ -8,8 +8,9 @@
     * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
       * 참고자료 : [[링크]](https://www.youtube.com/watch?v=573EZkzfnZ0&index=23&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
       * TF backprop 구현:  [[링크]](https://github.com/…/b…/master/lab-09-5-softmax_back_prop.py)
+    * A Derivation of Backpropagation in Matrix Form, [[링크]](http://sudeepraja.github.io/Neural/)   
+    * Backpropagation 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html#.WHetKmXqyOY.facebook)
  * Understanding CNNs : [[링크]](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
- * Backpropagation 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html#.WHetKmXqyOY.facebook)  
  * 딥러닝 관련 논문 정리 블로그 : [[링크]](http://sanghyukchun.github.io/blog/categories/deep-learning/)
  * 신경망 수학 연산 : [[링크]](https://github.com/hyunblee/deep_learning_4_ai/blob/master/little_stuff/basic_matrix_operation_NN.ipynb)
  * python nn 
