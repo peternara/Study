@@ -3,6 +3,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
     * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
