@@ -28,7 +28,16 @@
  * Collection of morning papers on Convolutional Neural Networks, [[링크]](https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/)  
  * Efficient Processing of Deep Neural Networks: A Tutorial and Survey, [[링크]](https://arxiv.org/abs/1703.09039)
  * CNNs from different viewpoints, Prerequisite: Basic neural networks, [[링크]](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
- 
+ * batch normalization
+   * ImageNet pre-trained models with batch normalization [[링크]](https://arxiv.org/abs/1612.01452)
+     * https://github.com/cvjena/cnn-models/
+     * http://www.inf-cv.uni-jena.de/Research/CNN+Models.html   
+   * 정리
+     * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
+     * http://sanghyukchun.github.io/88/
+     * http://funmv2013.blogspot.kr/2016/09/batch-normalization.html
+     * Lab: Batchnormalization Layer, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-10-6-mnist_nn_batchnorm.ipynb)
+     
 ### CNN
  * 개념이해(위한 소스)
    * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp)
@@ -72,15 +81,7 @@
  * model
    * Google Inception V3 : [[링크]](https://github.com/smichalowski/google_inception_v3_for_caffe)
    * ResNeXt(Aggregated Residual Transformations for Deep Neural Networks) : [[링크]](https://github.com/facebookresearch/ResNeXt)
- * batch normalization
-   * ImageNet pre-trained models with batch normalization [[링크]](https://arxiv.org/abs/1612.01452)
-     * https://github.com/cvjena/cnn-models/
-     * http://www.inf-cv.uni-jena.de/Research/CNN+Models.html
-   * googlenet : https://github.com/lim0606/caffe-googlenet-bn
-   * 정리
-     * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
-     * http://sanghyukchun.github.io/88/
-     * http://funmv2013.blogspot.kr/2016/09/batch-normalization.html
+  * googlenet : https://github.com/lim0606/caffe-googlenet-bn
  * Spatial Transformer Network
    * https://github.com/daerduoCarey/SpatialTransformerLayer
  * Highway Networks
