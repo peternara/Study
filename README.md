@@ -195,7 +195,7 @@
    * DiscoGAN
      * http://www.modulabs.co.kr/DeepLAB_library/12820
      * SK T-Brain Research, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
- * variational autoencoder, [[링크]](http://nolsigan.com/blog/what-is-variational-autoencoder/)
+ * Variational autoencoder(VAE), [[링크]](http://nolsigan.com/blog/what-is-variational-autoencoder/)
  
 ### Style Transfer
  * Style Transfer in Real-Time : [[링크]](https://shafeentejani.github.io/2017-01-03/fast-style-transfer/)
