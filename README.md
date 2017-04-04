@@ -3,6 +3,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
@@ -45,10 +46,9 @@
    * Convolutional Neural Networks (CNNs / ConvNets), [[링크]](http://cs231n.github.io/convolutional-networks/)
    * simple_cnn, [[링크]](https://github.com/can1357/simple_cnn)
    * EasyCNN, [[링크]](https://github.com/xylcbd/EasyCNN)
- 
-### Study
-  * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
-  * Caffe C++
+   
+### LIB
+* Caffe C++
     * C++ Example 1. Hello Caffe, [[링크]](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * Caffe c++ helloworld example with MemoryData input, [[링크]](https://medium.com/@shiyan/caffe-c-helloworld-example-with-memorydata-input-20c692a82a22)
     * Making a Caffe Layer, [[링크]](https://chrischoy.github.io/research/making-caffe-layer/)
@@ -76,7 +76,9 @@
     * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
     * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
     * 텐서플로우(TensorFlow) 시작하기, [[링크]](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
-    
+* PyTorch
+  * Kind_PyTorch_Tutorial, [[링크]](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+
 ### Classification
  * model
    * Google Inception V3 : [[링크]](https://github.com/smichalowski/google_inception_v3_for_caffe)
