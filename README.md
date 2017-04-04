@@ -3,6 +3,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * Applied Deep Learning Resources, [[링크]](https://github.com/kristjankorjus/applied-deep-learning-resources)
  * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
