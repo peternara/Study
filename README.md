@@ -181,20 +181,22 @@
    * TextBoxes, based SSD , [[링크]](https://github.com/MhLiao/TextBoxes)
  * OCR 
  
-### Generative Adversarial Nets (GAN)
- * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
- * Deep Learning Research Review : [[링크]]( https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
- * 초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN)
-   * http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html
-   * http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html
-   * http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html
-   * http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html 
- * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets : [[링크]](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
- * GAN 구현강좌 : [[링크]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.3wlynkvpb)
- * DiscoGAN
-   * http://www.modulabs.co.kr/DeepLAB_library/12820
-   * SK T-Brain Research, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
-   
+### Generative Model
+ * Generative Model Adversarial Nets (GAN)
+   * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+   * Deep Learning Research Review : [[링크]]( https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
+   * 초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN)
+     * http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html
+     * http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html
+     * http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html
+     * http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html 
+   * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets : [[링크]](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
+   * GAN 구현강좌 : [[링크]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.3wlynkvpb)
+   * DiscoGAN
+     * http://www.modulabs.co.kr/DeepLAB_library/12820
+     * SK T-Brain Research, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
+ * variational autoencoder, [[링크]](http://nolsigan.com/blog/what-is-variational-autoencoder/)
+ 
 ### Style Transfer
  * Style Transfer in Real-Time : [[링크]](https://shafeentejani.github.io/2017-01-03/fast-style-transfer/)
  
