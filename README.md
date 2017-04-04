@@ -231,6 +231,7 @@
 
 ## Math
   * Essence of linear algebra : [[링크]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  * Linear algebra, https://www.slideshare.net/ssuser7e10e4/linear-algrbra
   
 ## python
   * numpy
