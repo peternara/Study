@@ -121,13 +121,13 @@
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
  * faster rcnn
    * tf
-     * Faster-RCNN_TF, https://github.com/smallcorgi/Faster-RCNN_TF
+     * Faster-RCNN_TF, [[링크]](https://github.com/smallcorgi/Faster-RCNN_TF)
      * https://github.com/CharlesShang/TFFRCNN
-   
+   * Faster R-CNN, [[링크]](https://curt-park.github.io/2017-03-17/faster-rcnn/)
  * Yolo 2, YOLO9000: Better, Faster, Stronger : [[링크]](https://arxiv.org/abs/1612.08242)
    * http://pjreddie.com/darknet/yolo/
  * yolo
-   * yolo, https://pjreddie.com/publications/
+   * yolo, [[링크]](https://pjreddie.com/publications/)
    * Caffe Yolo
      * https://github.com/yeahkun/caffe-yolo
      * https://github.com/liuwei16/yolo-caffe
