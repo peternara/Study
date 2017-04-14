@@ -205,7 +205,7 @@
  
 ### Similar Image
   * Vector Similarity, "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"
-     * src, [[링크]](https://github.com/taki0112/Vector_Similarity)
+      * src, [[링크]](https://github.com/taki0112/Vector_Similarity)
 
 ### CNN For Text Classification
  * http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
