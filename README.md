@@ -59,23 +59,24 @@
     * Simple Example: Sin Layer, Making Your First Layer, [[링크]](https://github.com/BVLC/caffe/wiki/Simple-Example:-Sin-Layer)
     * Add new layer to Caffe, [[링크]](http://blog.deepsemantic.com/2015/08/01/Add-new-layer-to-Caffe/)
   * TensorFlow Tutorial
-    * 1. https://github.com/sherrym/tf-tutorial  
-    * 2. RNN 모델
+    * Tensorflow Tutorial 2: image classifier using convolutional neural network, [[링크]](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+    * https://github.com/sherrym/tf-tutorial  
+    * RNN 모델
       * part 1 : [[링크]](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
       * part 2 : [[링크]](https://docs.google.com/presentation/d/e/2PACX-1vRouwj_3cYsmLrNNI3Uq5gv5-hYp_QFdeoan2GlxKgIZRSejozruAbVV0IMXBoPsINB7Jw92vJo2EAM/pub?slide=id.p)
       * yutube : [[링크]](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
-    * 3. https://github.com/golbin/TensorFlow-Tutorials
-    * 4. TensorFlow in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=2FmcHiLCwTU&feature=share)
-    * 5. Getting started with Tensorflow, [[링크]](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/)
-    * 6. https://www.youtube.com/watch?v=wuo4JdG3SvU)
-    * 7. 정리 : [[링크]](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
-    * 8. TensorFlow Tutorial, [[링크]](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
-    * 9. CS 20SI: Tensorflow for Deep Learning Research, [[링크]](http://web.stanford.edu/class/cs20si/syllabus.html)
-    * 10. TensorFlow Basic Tutorial Labs, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll)
-    * 11. tf-stanford-tutorials, [[링크]](https://github.com/chiphuyen/tf-stanford-tutorials)
-    * 12. https://github.com/gicheonkang/TF-Tutorial
-    * 13. 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
-    * 14. Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
+    * https://github.com/golbin/TensorFlow-Tutorials
+    * TensorFlow in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=2FmcHiLCwTU&feature=share)
+    * Getting started with Tensorflow, [[링크]](https://jasdeep06.github.io/posts/getting-started-with-tensorflow/)
+    * https://www.youtube.com/watch?v=wuo4JdG3SvU)
+    * 정리 : [[링크]](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895)
+    * TensorFlow Tutorial, [[링크]](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
+    * CS 20SI: Tensorflow for Deep Learning Research, [[링크]](http://web.stanford.edu/class/cs20si/syllabus.html)
+    * TensorFlow Basic Tutorial Labs, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll)
+    * tf-stanford-tutorials, [[링크]](https://github.com/chiphuyen/tf-stanford-tutorials)
+    * https://github.com/gicheonkang/TF-Tutorial
+    * 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
+    * Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
     * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
     * 텐서플로우(TensorFlow) 시작하기, [[링크]](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
   * PyTorch
