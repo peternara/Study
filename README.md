@@ -131,6 +131,9 @@
    * Caffe Yolo
      * https://github.com/yeahkun/caffe-yolo
      * https://github.com/liuwei16/yolo-caffe
+   * Caffe Yolo2
+     * yolo2, [[링크]](https://github.com/hustzxd/z1)
+        * not yet, train module, so model convert darknet version' model.
    * tf src
      * https://github.com/nilboy/tensorflow-yolo
      * https://github.com/gliese581gg/YOLO_tensorflow
