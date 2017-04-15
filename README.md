@@ -213,7 +213,10 @@
  
 ### Style Transfer
  * Style Transfer in Real-Time : [[링크]](https://shafeentejani.github.io/2017-01-03/fast-style-transfer/)
- 
+ * texture Networks: Feed-forward Synthesis of Textures and Stylized Images
+   * src, https://github.com/DmitryUlyanov/texture_nets
+   * tf, https://github.com/tgyg-jegli/tf_texture_net
+   
 ### Similar Image
  * Vector Similarity, "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"
     * src, [[링크]](https://github.com/taki0112/Vector_Similarity)
