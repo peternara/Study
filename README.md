@@ -122,6 +122,10 @@
 ### Localization
  * study
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
+ * adversarial-frcnn, 
+   * A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection, [[링크]](https://arxiv.org/pdf/1704.03414.pdf)
+   * src, [[링크]](https://github.com/xiaolonw/adversarial-frcnn)
+   * join GAN + fast rcnn
  * faster rcnn
    * tf
      * Faster-RCNN_TF, [[링크]](https://github.com/smallcorgi/Faster-RCNN_TF)
