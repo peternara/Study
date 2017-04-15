@@ -40,7 +40,10 @@
      * http://sanghyukchun.github.io/88/
      * http://funmv2013.blogspot.kr/2016/09/batch-normalization.html
      * Lab: Batchnormalization Layer, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-10-6-mnist_nn_batchnorm.ipynb)
-     
+
+### RNN
+ * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+ 
 ### CNN
  * 개념이해(위한 소스)
    * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp)
