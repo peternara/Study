@@ -108,6 +108,7 @@
      * Introducing SqueezeDet: low power fully convolutional neural network framework for autonomous driving, [[링크]](https://theinformationageblog.wordpress.com/2017/03/02/introducing-squeezedet-low-power-fully-convolutional-neural-network-framework-for-autonomous-driving/)
       * https://github.com/songhan/SqueezeNet-Residual  
       * caffe, [[링크]](https://github.com/terrychenism/SqueezeNet/tree/master/SqueezeNet_v1.0)
+      * caffe, https://github.com/pmgysel/caffe/tree/master/models/SqueezeNet
 
 ### Face
  * recongition & verification & feature
