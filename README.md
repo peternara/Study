@@ -45,6 +45,7 @@
  * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
  
 ### CNN
+ * Convolutional Neural Networks (CNNs): An Illustrated Explanation, [[링크]](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
  * 개념이해(위한 소스)
    * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp)
    * https://github.com/xylcbd/EasyCNN
