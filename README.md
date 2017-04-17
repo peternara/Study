@@ -99,6 +99,10 @@
  * Specific Domain
    * nsfw
      * https://github.com/yahoo/open_nsfw
+     
+### Compression Network
+ * Pruning Network
+   * Pruning Neural Networks, [[링크]](https://github.com/Lisandro79/JetsonCaffe/wiki/Pruning-Neural-Networks)
  * Binary network 
    * XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks : [[링크]](https://arxiv.org/abs/1603.05279)
      * http://www.erogol.com/xnor-net/ 
