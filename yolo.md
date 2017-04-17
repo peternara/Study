@@ -77,8 +77,8 @@ infer-5 :
 
 ### Ref
  * 이 두 Ref[1][2]을 너무 많이 참조 되었음.:)
- [1]  https://www.youtube.com/watch?v=L0tzmv--CGY&feature=youtu.be 
- [2] https://curt-park.github.io/2017-03-26/yolo/
+   * [1]  https://www.youtube.com/watch?v=L0tzmv--CGY&feature=youtu.be 
+   * [2] https://curt-park.github.io/2017-03-26/yolo/
     
 
 
