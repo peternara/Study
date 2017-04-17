@@ -1,2 +1,2 @@
 
-### Stduy : https://github.com/peternara/Study/blob/master/Study.md
+#### Stduy : https://github.com/peternara/Study/blob/master/Study.md
