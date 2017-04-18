@@ -116,6 +116,9 @@
       * caffe, https://github.com/pmgysel/caffe/tree/master/models/SqueezeNet
 
 ### Face
+ * facenet
+   * https://github.com/davidsandberg/facenet
+   * https://github.com/davidsandberg/facenet/wiki/Classifier-training-of-inception-resnet-v1
  * recongition & verification & feature
    * A Lightened CNN for Deep Face Representation 
      * https://github.com/stoneyang/LCNN_TRAIN
