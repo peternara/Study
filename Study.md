@@ -101,7 +101,9 @@
      * https://github.com/yahoo/open_nsfw
      
 ### Compression Network
- * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
+ * depthwise separable convolution
+    * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
+    * Xception: Deep learning with depthwise separable convolutions,   [[링크]](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md)
  * Pruning Network
    * Pruning Neural Networks, [[링크]](https://github.com/Lisandro79/JetsonCaffe/wiki/Pruning-Neural-Networks)
  * Binary network 
