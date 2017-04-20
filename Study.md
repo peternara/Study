@@ -101,6 +101,7 @@
      * https://github.com/yahoo/open_nsfw
      
 ### Compression Network
+ * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
  * Pruning Network
    * Pruning Neural Networks, [[링크]](https://github.com/Lisandro79/JetsonCaffe/wiki/Pruning-Neural-Networks)
  * Binary network 
