@@ -202,6 +202,7 @@
    
 ### OCR
  * Text Detection
+   * 정리 : [[링크]](https://github.com/seungwooYoo/Curated-scene-text-recognition-analysis)
    * SSD, [[링크]](https://github.com/chenxinpeng/SSD_scene_text_detection)
    * faster rcnn, [[링크]](https://github.com/jugg1024/Text-Detection-with-FRCN)
    * Detecting Text in Natural Image with Connectionist Text Proposal Network, [[링크]](https://github.com/tianzhi0549/CTPN)
