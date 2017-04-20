@@ -125,6 +125,9 @@
    * https://github.com/davidsandberg/facenet
    * https://github.com/davidsandberg/facenet/wiki/Classifier-training-of-inception-resnet-v1
  * recongition & verification & feature
+   * A Discriminative Feature Learning Approach for Deep Face Recognition
+     * http://ydwen.github.io/
+     * caffe src : [[링크]](https://github.com/ydwen/caffe-face)
    * A Lightened CNN for Deep Face Representation 
      * https://github.com/stoneyang/LCNN_TRAIN
    * SeetaFaceEngine
