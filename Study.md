@@ -219,8 +219,8 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN)
-   * 아주 간단한 GAN 구현하기, [[링크]](http://m.blog.naver.com/atelierjpro/220984758512) 
-   * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
+   * 아주 간단한 GAN 구현하기, [[링크]](http://m.blog.naver.com/atelierjpro/220984758512) 
+   * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
    * Deep Learning Research Review : [[링크]]( https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
    * 초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN)
      * http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html
