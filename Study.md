@@ -186,7 +186,8 @@
  * PVANet
    * https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train
    * https://github.com/sanghoon/pva-faster-rcnn
-   * train : https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train
+   * train :  [[링크]](https://github.com/sanghoon/pva-faster-rcnn/tree/master/models/pvanet/example_train)
+   * PVANet-FACE,  [[링크]](https://github.com/twmht/PVANet-FACE)
  * SSD
    * tf
      *  https://github.com/balancap/SSD-Tensorflow
