@@ -145,6 +145,7 @@
    * src, [[링크]](https://github.com/xiaolonw/adversarial-frcnn)
    * join GAN + fast rcnn
  * faster rcnn
+   * caffe, resnet,  [[링크]](https://github.com/Eniac-Xie/faster-rcnn-resnet)
    * tf
      * Faster-RCNN_TF, [[링크]](https://github.com/smallcorgi/Faster-RCNN_TF)
      * https://github.com/CharlesShang/TFFRCNN
