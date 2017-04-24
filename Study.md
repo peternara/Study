@@ -140,6 +140,7 @@
 ### Localization
  * study
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
+   * A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, [[링크]](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
  * adversarial-frcnn, 
    * A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection, [[링크]](https://arxiv.org/pdf/1704.03414.pdf)
    * src, [[링크]](https://github.com/xiaolonw/adversarial-frcnn)
