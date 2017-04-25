@@ -289,3 +289,4 @@
 ## Data Set
   * 정리 : [[링크]](https://github.com/rudvlf0413/Dataset)
   * Open Images dataset, https://github.com/openimages/dataset
+  * text detection, ocr : Scene Text Localization & Recognition Resources, [[링크]](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
