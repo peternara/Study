@@ -153,14 +153,14 @@
    * Faster R-CNN, [[링크]](https://curt-park.github.io/2017-03-17/faster-rcnn/)
    * squeezenet+faster r-cnn, hint, prototxt example, https://github.com/rbgirshick/py-faster-rcnn/issues/345
  * Yolo 2, YOLO9000: Better, Faster, Stronger : [[링크]](https://arxiv.org/abs/1612.08242)
+   * caffe, https://github.com/gklz1982/caffe-yolov2
+      * yolo1, https://github.com/yeahkun/caffe-yolo
+   * caffe, yolo2, [[링크]](https://github.com/hustzxd/z1)
  * yolo
    * yolo, [[링크]](https://pjreddie.com/publications/)
    * Caffe Yolo
      * https://github.com/yeahkun/caffe-yolo
      * https://github.com/liuwei16/yolo-caffe
-   * Caffe Yolo2
-     * yolo2, [[링크]](https://github.com/hustzxd/z1)
-        * not yet, train module, so model convert darknet version' model.
    * tf src
      * https://github.com/nilboy/tensorflow-yolo
      * https://github.com/gliese581gg/YOLO_tensorflow
