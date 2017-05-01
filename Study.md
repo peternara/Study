@@ -85,6 +85,7 @@
     * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)    
   * PyTorch
     * Kind_PyTorch_Tutorial, [[링크]](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+    * PyTorch in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=nbJ-2G2GXL0)
 
 ### Classification
  * model
