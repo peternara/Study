@@ -220,6 +220,7 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN)
+   * Wasserstein GAN 수학 이해하기, [[링크]](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
    * 아주 간단한 GAN 구현하기, [[링크]](http://m.blog.naver.com/atelierjpro/220984758512) 
    * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
    * Deep Learning Research Review : [[링크]]( https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
