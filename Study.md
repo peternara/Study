@@ -140,6 +140,7 @@
 
 ### Localization
  * study
+   * Object Localization and Detection, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
    * A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, [[링크]](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
  * adversarial-frcnn, 
