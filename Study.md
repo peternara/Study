@@ -3,6 +3,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * AI, ML, Deep Learning, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html)
  * A Neural Network in 11 lines of Python (Part 1), [[링크]](http://iamtrask.github.io/2015/07/12/basic-python-network/)
  * Applied Deep Learning Resources(정리페이지), [[링크]](https://github.com/kristjankorjus/applied-deep-learning-resources)
  * Deep Learning Tutorial, dl_tutorials_10weeks [[링크]](https://github.com/sjchoi86/dl_tutorials_10weeks)
