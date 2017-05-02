@@ -249,9 +249,10 @@
     * src, [[링크]](https://github.com/taki0112/Vector_Similarity)
 
 ### CNN For Text Classification
- * http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
- * 합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류 : http://docs.likejazz.com/cnn-text-classification-tf/
- * tf code : https://github.com/likejazz/cnn-text-classification-tf
+ * UNDERSTANDING CONVOLUTIONAL NEURAL NETWORKS FOR NLP, [[링크]](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+ * http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+ * 합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류 : [[링크]](http://docs.likejazz.com/cnn-text-classification-tf/)
+ * tf code : [[링크]](https://github.com/likejazz/cnn-text-classification-tf)
 
 ### Pose Estimation
  * Realtime Multi-Person Pose Estimation: [[링크]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
