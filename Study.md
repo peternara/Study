@@ -234,6 +234,7 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN)
+   * Deep generative model, [[링크]](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
    * NIPS 2016, Generative Adversarial Networks
       * https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
       * https://arxiv.org/abs/1701.00160
