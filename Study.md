@@ -209,9 +209,13 @@
    * Train CRF-RNN : https://github.com/stoneyang/train-CRF-RNN
  * Instance Segmentation
  * fcn
+   * study 
+     * Fully convolutional networks for semantic segmentation. [[링크]](https://docs.google.com/presentation/d/10XodYojlW-1iurpUsMoAZknQMS36p7lVIfFZ-Z7V_aY/edit#slide=id.p)
    * tf version
      * https://github.com/yuxng/tensorflow-fcn
      * https://github.com/JindongJiang/FCN.tensorflow
+   * caffe
+     * https://github.com/shelhamer/fcn.berkeleyvision.org
  * Pyramid Scene Parsing Network
    * http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html
    * https://github.com/CharlesShang/PSPNet
