@@ -216,6 +216,8 @@
      * https://github.com/JindongJiang/FCN.tensorflow
    * caffe
      * https://github.com/shelhamer/fcn.berkeleyvision.org
+     * https://github.com/bharatsingh430/py-R-FCN-multiGPU
+     * https://github.com/Orpine/py-R-FCN
  * Pyramid Scene Parsing Network
    * http://appsrv.cse.cuhk.edu.hk/~hszhao/projects/pspnet/index.html
    * https://github.com/CharlesShang/PSPNet
