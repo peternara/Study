@@ -1,5 +1,15 @@
 ## Vision
 
+## Machine Learning
+ * logistic regression model
+   * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
+ * Machine learning
+   * Numerical Computation, [[링크]](http://www.deeplearningbook.org/contents/numerical.html)
+   * Introduction to Machine Learning, Amnon Shashua, [[링크]](https://arxiv.org/abs/0904.3664)
+   * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+ * SVM
+   * Chapter 2 : SVM (Support Vector Machine) — Theory, [[링크]](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+
 ## Deep Learning
 
 ### 이론 설명
@@ -23,12 +33,6 @@
    * kr) http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html
  * Softmax
    * Difference Between Softmax Function and Sigmoid Function,  [[링크]](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/)
- * logistic regression model
-   * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
- * Machine learning
-   * Numerical Computation, [[링크]](http://www.deeplearningbook.org/contents/numerical.html)
-   * Introduction to Machine Learning, Amnon Shashua, [[링크]](https://arxiv.org/abs/0904.3664)
-   * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
  * Collection of morning papers on Convolutional Neural Networks, [[링크]](https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/)  
  * Efficient Processing of Deep Neural Networks: A Tutorial and Survey, [[링크]](https://arxiv.org/abs/1703.09039)
  * CNNs from different viewpoints, Prerequisite: Basic neural networks, [[링크]](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
