@@ -228,6 +228,9 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN)
+   * NIPS 2016, Generative Adversarial Networks
+      * https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
+      * https://arxiv.org/abs/1701.00160
    * Wasserstein GAN 수학 이해하기, [[링크]](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
    * 아주 간단한 GAN 구현하기, [[링크]](http://m.blog.naver.com/atelierjpro/220984758512) 
    * Generative adversarial networks, [[링크]](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
