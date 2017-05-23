@@ -13,6 +13,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * 카카오에서 12년간 발표 논문 6163건을 분석, [[링크]](https://www.facebook.com/groups/AIKoreaOpen/)
  * [카카오AI리포트] 딥러닝 연구의 현재와 미래 (1/2), [[링크]](https://brunch.co.kr/@kakao-it/65)
  * AI, ML, Deep Learning, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html)
  * A Neural Network in 11 lines of Python (Part 1), [[링크]](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -58,6 +59,8 @@
    * Convolutional Neural Networks (CNNs / ConvNets), [[링크]](http://cs231n.github.io/convolutional-networks/)
    * simple_cnn, [[링크]](https://github.com/can1357/simple_cnn)
    * EasyCNN, [[링크]](https://github.com/xylcbd/EasyCNN)
+ * Visualization
+   * Picasso: A free open-source visualizer for Convolutional Neural Networks, [[링크]](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
    
 ### LIB
   * Caffe C++
