@@ -4,6 +4,7 @@
  * logistic regression model
    * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
  * Machine learning
+   * XOR problem theory : [[링크]](http://home.agh.edu.pl/~vlsi/AI/xor_t/en/main.htm)
    * Numerical Computation, [[링크]](http://www.deeplearningbook.org/contents/numerical.html)
    * Introduction to Machine Learning, Amnon Shashua, [[링크]](https://arxiv.org/abs/0904.3664)
    * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
@@ -52,6 +53,7 @@
  * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
  
 ### CNN
+ * CNN을 모듈 방식의 관점, [[링크]](https://brunch.co.kr/@chris-song/23)
  * Convolutional Neural Networks (CNNs): An Illustrated Explanation, [[링크]](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
  * 개념이해(위한 소스)
    * opencv based, [[링크]](https://github.com/xingdi-eric-yuan/single-layer-convnet/blob/master/ConvNet.cpp)
