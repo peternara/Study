@@ -13,6 +13,7 @@
 ## Deep Learning
 
 ### 이론 설명
+ * [카카오AI리포트] 딥러닝 연구의 현재와 미래 (1/2), [[링크]](https://brunch.co.kr/@kakao-it/65)
  * AI, ML, Deep Learning, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html)
  * A Neural Network in 11 lines of Python (Part 1), [[링크]](http://iamtrask.github.io/2015/07/12/basic-python-network/)
  * Applied Deep Learning Resources(정리페이지), [[링크]](https://github.com/kristjankorjus/applied-deep-learning-resources)
@@ -233,7 +234,8 @@
  * OCR 
  
 ### Generative Model
- * Generative Model Adversarial Nets (GAN)
+ * Generative Model Adversarial Nets (GAN) : [[링크]](https://hardikbansal.github.io/CycleGANBlog/)
+   * Understanding and Implementing CycleGAN in TensorFlow
    * Deep generative model, [[링크]](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
    * NIPS 2016, Generative Adversarial Networks
       * https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
@@ -253,6 +255,12 @@
      * http://www.modulabs.co.kr/DeepLAB_library/12820
      * SK T-Brain Research, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
  * Variational autoencoder(VAE), [[링크]](http://nolsigan.com/blog/what-is-variational-autoencoder/)
+ * On Face Segmentation, Face Swapping, and Face Perception
+   * ttp://www.openu.ac.il/home/hassner/projects/faceswap/
+   * http://www.creativeai.net/…/on-face-segmentation-face-swapp…
+   * https://github.com/YuvalNirkin/face_swap
+   * https://github.com/YuvalNirkin/face_segmentation
+   * https://github.com/YuvalNirkin/face_video_segment
  
 ### Style Transfer
  * Style Transfer in Real-Time : [[링크]](https://shafeentejani.github.io/2017-01-03/fast-style-transfer/)
@@ -307,6 +315,7 @@
     * https://github.com/nsoojin/coursera-ml-py
     
 ## Data Set
+  * Sketch RNN 기술에 이용된 벡터 이미지 데이터셋 : [[링크]](https://github.com/hardmaru/sketch-rnn-datasets)
   * 정리 : [[링크]](https://github.com/rudvlf0413/Dataset)
   * Open Images dataset, https://github.com/openimages/dataset
   * text detection, ocr : Scene Text Localization & Recognition Resources, [[링크]](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
