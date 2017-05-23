@@ -238,6 +238,7 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN) 
+   * A Generative Model of People in Clothing, [[링크]](http://files.is.tue.mpg.de/classner/gp/?utm_content=buffer1b8c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
    * Variants of GANs - Jaejun Yoo: [[링크]](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
    * Understanding and Implementing CycleGAN in TensorFlow : [[링크]](https://hardikbansal.github.io/CycleGANBlog/)
    * Deep generative model, [[링크]](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
