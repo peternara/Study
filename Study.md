@@ -305,7 +305,8 @@
   * http://trendingarxiv.smerity.com/
   * conference 
     * nips 2017, https://nips.cc/Conferences/2016/Schedule?type=Poster
-
+    * nips list, https://papers.nips.cc/
+    
 ## Fast Search
   * ANN
     * https://brunch.co.kr/@goodvc78/15
