@@ -23,6 +23,8 @@
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
+    * Back-Propagation is very simple. Who made it Complicated ?, [[링크]](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+    * 계산그래프로 역전파 이해하기, [[링크]](https://brunch.co.kr/@chris-song/22)
     * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
       * 참고자료 : [[링크]](https://www.youtube.com/watch?v=573EZkzfnZ0&index=23&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
       * TF backprop 구현:  [[링크]](https://github.com/…/b…/master/lab-09-5-softmax_back_prop.py)
