@@ -303,6 +303,8 @@
 ### Paper List
   * http://www.arxiv-sanity.com/top?timefilter=alltime&vfilter=all
   * http://trendingarxiv.smerity.com/
+  * conference 
+    * nips 2017, https://nips.cc/Conferences/2016/Schedule?type=Poster
 
 ## Fast Search
   * ANN
