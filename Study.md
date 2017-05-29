@@ -126,6 +126,8 @@
  * Pruning Network
    * Pruning Neural Networks, [[링크]](https://github.com/Lisandro79/JetsonCaffe/wiki/Pruning-Neural-Networks)
  * Binary network 
+   * Ternary Weight Networks
+     * caffe, https://github.com/fengfu-chris/caffe-twns
    * XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks : [[링크]](https://arxiv.org/abs/1603.05279)
      * http://www.erogol.com/xnor-net/ 
    * Quantized Convolutional Neural Networks for Mobile Devices, https://arxiv.org/abs/1512.06473
