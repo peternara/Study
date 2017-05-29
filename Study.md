@@ -118,7 +118,9 @@
  * depthwise separable convolution
     * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
       * MobileNet-Caffe, [[링크]](https://github.com/shicai/MobileNet-Caffe)
-    * Xception: Deep learning with depthwise separable convolutions,   [[링크]](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md)
+    * Xception: Deep learning with depthwise separable convolutions
+       * [[링크]](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md)
+       * https://github.com/yihui-he/Xception-caffe
     * tf function, [[링크]](https://www.tensorflow.org/api_docs/python/tf/nn/depthwise_conv2d)
     * caffe, https://github.com/pby5/MobileNet
  * Pruning Network
@@ -141,6 +143,7 @@
    * https://github.com/davidsandberg/facenet/wiki/Classifier-training-of-inception-resnet-v1
    * Triplet loss
       * https://github.com/hizhangp/triplet
+      * https://github.com/luhaofang/tripletloss
  * recongition & verification & feature
    * A Discriminative Feature Learning Approach for Deep Face Recognition
      * http://ydwen.github.io/
@@ -218,6 +221,7 @@
  
 ### Segmentation
  * Semantic Segmentation
+   * PixelNet: Representation of the pixels, by the pixels, and for the pixels. [[링크]](https://github.com/aayushbansal/PixelNet)
    * Deep learning for Earth Observation, [[링크]](https://github.com/nshaud/DeepNetsForEO)
    * CRF-RNN for Semantic Image Segmentation, [[링크]](https://github.com/torrvision/crfasrnn)
    * Train CRF-RNN : [[링크]](https://github.com/stoneyang/train-CRF-RNN)
