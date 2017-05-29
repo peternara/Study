@@ -138,6 +138,8 @@
  * facenet
    * https://github.com/davidsandberg/facenet
    * https://github.com/davidsandberg/facenet/wiki/Classifier-training-of-inception-resnet-v1
+   * Triplet loss
+      * https://github.com/hizhangp/triplet
  * recongition & verification & feature
    * A Discriminative Feature Learning Approach for Deep Face Recognition
      * http://ydwen.github.io/
@@ -213,8 +215,9 @@
  
 ### Segmentation
  * Semantic Segmentation
-   * https://github.com/torrvision/crfasrnn
-   * Train CRF-RNN : https://github.com/stoneyang/train-CRF-RNN
+   * Deep learning for Earth Observation, [[링크]](https://github.com/nshaud/DeepNetsForEO)
+   * CRF-RNN for Semantic Image Segmentation, [[링크]](https://github.com/torrvision/crfasrnn)
+   * Train CRF-RNN : [[링크]](https://github.com/stoneyang/train-CRF-RNN)
  * Instance Segmentation
  * fcn
    * study 
