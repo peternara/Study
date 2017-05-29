@@ -117,6 +117,7 @@
 ### Compression Network
  * depthwise separable convolution
     * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
+      * MobileNet-Caffe, [[링크]](https://github.com/shicai/MobileNet-Caffe)
     * Xception: Deep learning with depthwise separable convolutions,   [[링크]](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md)
     * tf function, [[링크]](https://www.tensorflow.org/api_docs/python/tf/nn/depthwise_conv2d)
     * caffe, https://github.com/pby5/MobileNet
