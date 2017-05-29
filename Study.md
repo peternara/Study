@@ -152,7 +152,9 @@
  * facial landmark
    * https://github.com/luoyetx/deep-landmark 
    * https://github.com/pminmin/caffe_landmark 
-   * MTCNN, https://github.com/foreverYoungGitHub/MTCNN
+   * MTCNN
+     * https://github.com/DaFuCoding/MTCNN_Caffe
+     * https://github.com/foreverYoungGitHub/MTCNN
 
 ### Localization
  * study
