@@ -2,6 +2,7 @@
    * 장점
       * 매우 알고리즘이 심플
       * 매우 빠르다.
+      * background에 대한 error가 fast rcnn보다 상대적으로 적다
    * 단점
       * 빠른대신 감지율이 낮다(ver2에선 이를 해결)
       * 작은 오브젝트에 대해서는 검출이 잘 안된다.
@@ -21,7 +22,7 @@
         * x, y 의 기준은 각 Cell 하나의 크기가 1이고,  그 각 하나의 Cell 기준으로 convert된 단위 = 0~1
         * w, h 는 이미지 사이즈로 normalized 된 scale = 0~1
      * Bounding Box에 대한 confidence : p(x B)
-        * Pr(Object)*IOU   
+        * Pr(Object)*IOU([개념](https://oss.navercorp.com/chullhwan-song/Study/issues/16))   
            * grid cell의 B개의 bounding box(bbox)가 존재
            * bbox안에 object가 졵재하지 않는 다면,  0
            * IOU : predict box와 ground truth box 사이의 겹침여부 계산
@@ -73,6 +74,15 @@ infer-5 :
        * dropout = 0.5
        * data argumentation
          * random scaling & translation of up to 20% original size
+
+* result
+  * 속도
+![image](https://media.oss.navercorp.com/user/1196/files/b62821f0-5521-11e7-9c7c-d1606c6a6028)
+ * 정확도
+![image](https://media.oss.navercorp.com/user/1196/files/d8cf5d04-5521-11e7-8c71-f07a43adec2c)
+
+* 이후 2016년 말쯤~ Yolo2 
+    * Batch Normalization, High Resolution Classifier(input size의 크기 224x224->448x448), Convolutional With Anchor Boxes( faster rcnn 차용) 등등사용하여, SSD나 faster rcnn 성능에 비등.  속도는 좀 느려짐(하지만, 기존 localization 알고리즘보다는 빠름)
 
 
 ### Ref
