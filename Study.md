@@ -1,19 +1,26 @@
 ## Vision
 
 ## Machine Learning
+ * Naive Bayes 
+   * Naive Bayes - machine learning algorithm for classification problems : [[링크]](http://www.techleer.com/articles/200-naive-bayes-machine-learning-algorithm-for-classification-problems/)
  * logistic regression model
    * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
  * Machine learning
+   * 머신러닝 모델링 알고리즘: [[링크]](https://brunch.co.kr/@kmbmjn95/18)
    * XOR problem theory : [[링크]](http://home.agh.edu.pl/~vlsi/AI/xor_t/en/main.htm)
    * Numerical Computation, [[링크]](http://www.deeplearningbook.org/contents/numerical.html)
    * Introduction to Machine Learning, Amnon Shashua, [[링크]](https://arxiv.org/abs/0904.3664)
    * 가깝다, 멀다 - Distance / Metric의 개념, [[링크]](https://www.youtube.com/watch?v=4KXgdf6Bmo4&feature=youtu.be&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
  * SVM
-   * Chapter 2 : SVM (Support Vector Machine) — Theory, [[링크]](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+   * Chapter 2 : SVM (Support Vector Machine) — Theory, [[링크]](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72) 
+ * PCA
+   * 차원축소 PCA : [[링크]](http://blog.naver.com/anthouse28/221016346362)  
 
 ## Deep Learning
 
 ### 이론 설명
+ * A guide to convolution arithmetic for deep learning : [[링크]](https://arxiv.org/abs/1603.07285)
+ * 컨볼루션 이해하기,  [[링크]](https://brunch.co.kr/@chris-song/24)
  * 카카오에서 12년간 발표 논문 6163건을 분석, [[링크]](https://www.facebook.com/groups/AIKoreaOpen/)
  * [카카오AI리포트] 딥러닝 연구의 현재와 미래 (1/2), [[링크]](https://brunch.co.kr/@kakao-it/65)
  * AI, ML, Deep Learning, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/machine_learning.html)
@@ -23,13 +30,13 @@
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
+    * Backpropagation 설명 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)
     * Back-Propagation is very simple. Who made it Complicated ?, [[링크]](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
     * 계산그래프로 역전파 이해하기, [[링크]](https://brunch.co.kr/@chris-song/22)
     * Andrej Karpathy, Yes you should understand backprop : [[링크]](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.k8dqrinc3)
       * 참고자료 : [[링크]](https://www.youtube.com/watch?v=573EZkzfnZ0&index=23&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
       * TF backprop 구현:  [[링크]](https://github.com/…/b…/master/lab-09-5-softmax_back_prop.py)
-    * A Derivation of Backpropagation in Matrix Form, [[링크]](http://sudeepraja.github.io/Neural/)   
-    * Backpropagation 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html#.WHetKmXqyOY.facebook)
+    * A Derivation of Backpropagation in Matrix Form, [[링크]](http://sudeepraja.github.io/Neural/) 
  * Understanding CNNs : [[링크]](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
  * 딥러닝 관련 논문 정리 블로그 : [[링크]](http://sanghyukchun.github.io/blog/categories/deep-learning/)
  * 신경망 수학 연산 : [[링크]](https://github.com/hyunblee/deep_learning_4_ai/blob/master/little_stuff/basic_matrix_operation_NN.ipynb)
@@ -53,6 +60,7 @@
 
 ### RNN
  * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+ * (한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN), [[링크]](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
  
 ### CNN
  * CNN을 모듈 방식의 관점, [[링크]](https://brunch.co.kr/@chris-song/23)
@@ -100,6 +108,12 @@
     * Kind_PyTorch_Tutorial, [[링크]](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
     * PyTorch in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=nbJ-2G2GXL0)
 
+### Relation Network
+  * A simple neural network module for relational reasoning : [paper ](https://arxiv.org/pdf/1706.01427.pdf)
+  * Relation Network : [링크](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
+  * Discovering objects and their relations from entangled scene representations : [링크](https://arxiv.org/abs/1702.05068)
+  * [A simple neural network module for relational reasoning 동영상 세미나](https://www.youtube.com/watch?v=Lb1PVpFp9F8&feature=youtu.be)
+  
 ### Classification
  * model
    * Google Inception V3 : [[링크]](https://github.com/smichalowski/google_inception_v3_for_caffe)
@@ -115,9 +129,8 @@
      * https://github.com/yahoo/open_nsfw
      
 ### Compression Network
- * depthwise separable convolution
-    * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
-      * MobileNet-Caffe, [[링크]](https://github.com/shicai/MobileNet-Caffe)
+ * ByteNet:Neural Machine Translation in Linear Time : [[링크]](https://arxiv.org/abs/1610.10099)
+ * SliceNet : depthwise separable convolution
     * Xception: Deep learning with depthwise separable convolutions
        * [[링크]](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md)
        * https://github.com/yihui-he/Xception-caffe
@@ -126,6 +139,10 @@
  * Pruning Network
    * Pruning Neural Networks, [[링크]](https://github.com/Lisandro79/JetsonCaffe/wiki/Pruning-Neural-Networks)
  * Binary network 
+   * MobileNets 
+     * MobileNets: Open-Source Models for Efficient On-Device Vision :[[링크]]( https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
+     * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [[링크]](https://arxiv.org/abs/1704.04861)
+      * MobileNet-Caffe, [[링크]](https://github.com/shicai/MobileNet-Caffe)
    * Ternary Weight Networks
      * caffe, https://github.com/fengfu-chris/caffe-twns
    * XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks : [[링크]](https://arxiv.org/abs/1603.05279)
@@ -223,6 +240,9 @@
  
 ### Segmentation
  * Semantic Segmentation
+   * A 2017 Guide to Semantic Segmentation with Deep Learning,  [[링크]](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review) 
+   * Image Segmentation using deconvolution layer in Tensorflow, [[링크]](http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/)
+   * Deep Learning for Computer Vision - Going beyond image classification and regression, [[링크]]( http://sigmoidal.io/dl-computer-vision-beyond-classification/)
    * PixelNet: Representation of the pixels, by the pixels, and for the pixels. [[링크]](https://github.com/aayushbansal/PixelNet)
    * Deep learning for Earth Observation, [[링크]](https://github.com/nshaud/DeepNetsForEO)
    * CRF-RNN for Semantic Image Segmentation, [[링크]](https://github.com/torrvision/crfasrnn)
@@ -254,7 +274,13 @@
  
 ### Generative Model
  * Generative Model Adversarial Nets (GAN) 
-   * A Generative Model of People in Clothing, [[링크]](http://files.is.tue.mpg.de/classner/gp/?utm_content=buffer1b8c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+   * CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - 컨셉 : [링크]](https://mikigom.github.io/jekyll/update/2017/07/11/cyclegan.html)
+   * Chainer 기반의 다양한 GAN 을 구현한 라이브러리 : [[링크]](https://github.com/pfnet-research/chainer-gan-lib)
+   * (Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN : [[링크]](http://ddanggle.github.io/GANinTorch)  
+   * Generative Models and GANs, [[링크]](https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b)
+   * Introduction to domain adversarial training of neural network. [[링크]](https://www.slideshare.net/thinkingfactory/pr12-dann-jaejun-yoo)  
+   * Continual Learning with Deep Generative Replay, [[링크]](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/433722800331873/?fref=mentions) 
+   * SK T-Brain Research, A Generative Model of People in Clothing, [[링크]](http://files.is.tue.mpg.de/classner/gp/?utm_content=buffer1b8c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
    * Variants of GANs - Jaejun Yoo: [[링크]](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
    * Understanding and Implementing CycleGAN in TensorFlow : [[링크]](https://hardikbansal.github.io/CycleGANBlog/)
    * Deep generative model, [[링크]](https://www.slideshare.net/HyungjooCho2/deep-generative-modelpdf)
@@ -298,10 +324,13 @@
  * http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
  * 합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류 : [[링크]](http://docs.likejazz.com/cnn-text-classification-tf/)
  * tf code : [[링크]](https://github.com/likejazz/cnn-text-classification-tf)
-
+ * [Convolutional Neural Networks for Sentence  Classification](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwj6t63JmNvUAhWCULwKHcbgB-8QFghDMAM&url=http%3A%2F%2Fwww.aclweb.org%2Fanthology%2FD14-1181&usg=AFQjCNGcdltQiLIWrZRVlmgqIMEQ4p39Mg)
+ * [자연어 처리 문제를 해결하는 CONVOLUTIONAL NEURAL NETWORKS 이해하기](http://mlduck.tistory.com/4)
+ 
 ### Pose Estimation
  * Realtime Multi-Person Pose Estimation: [[링크]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
  * OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library, [[링크]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+ 
 ### SLAM
  * ios orb slam
    * https://github.com/rhythm92/ORB_SLAM-IOS
@@ -327,6 +356,7 @@
 
 ## NLP
   * word2vec
+    * Sentiment analysis on forum articles using word2vec and Keras : [[링크]](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb) 
     * https://brunch.co.kr/@goodvc78/16 
 
 ## Math
