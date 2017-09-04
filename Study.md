@@ -19,6 +19,8 @@
 ## Deep Learning
 
 ### 이론 설명
+ * ML Camp Jeju 2017 tutorial : [[링크]](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/04_FinalPresentation.md)
+ * 딥러닝 교육 자료 (Deep Learning Lecture) : [[링크]](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
  * A guide to convolution arithmetic for deep learning : [[링크]](https://arxiv.org/abs/1603.07285)
  * 컨볼루션 이해하기,  [[링크]](https://brunch.co.kr/@chris-song/24)
  * 카카오에서 12년간 발표 논문 6163건을 분석, [[링크]](https://www.facebook.com/groups/AIKoreaOpen/)
@@ -30,6 +32,8 @@
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
+    * Gradient Descent Overview : [[링크]](https://brunch.co.kr/@chris-song/50)
+    * Derivation of Backpropagation : [[링크]](https://nbviewer.jupyter.org/github/maka89/backprop/blob/master/backprop.ipynb)
     * Backpropagation 설명 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)
     * Back-Propagation is very simple. Who made it Complicated ?, [[링크]](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
     * 계산그래프로 역전파 이해하기, [[링크]](https://brunch.co.kr/@chris-song/22)
@@ -61,6 +65,8 @@
 ### RNN
  * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
  * (한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN), [[링크]](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
+ * 챗봇
+   * tf, https://github.com/golbin/TensorFlow-Tutorials/tree/master/08%20-%20RNN/ChatBot
  
 ### CNN
  * CNN을 모듈 방식의 관점, [[링크]](https://brunch.co.kr/@chris-song/23)
@@ -76,6 +82,8 @@
    
 ### LIB
   * Caffe C++
+    * Blobs, 계층들, 그리고 망들 : Caffe 모델 분석 : [[링크]](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-1.Blobs,-Layers,-and-Nets-(Kor))
+    * DeepLearning-Caffe-Nets-Layers-Blobs: [[링크]](http://yujuwon.tistory.com/entry/DeepLearning-Caffe-Nets-Layers-Blobs)
     * C++ Example 1. Hello Caffe, [[링크]](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * Caffe c++ helloworld example with MemoryData input, [[링크]](https://medium.com/@shiyan/caffe-c-helloworld-example-with-memorydata-input-20c692a82a22)
     * Making a Caffe Layer, [[링크]](https://chrischoy.github.io/research/making-caffe-layer/)
@@ -84,6 +92,7 @@
     * Simple Example: Sin Layer, Making Your First Layer, [[링크]](https://github.com/BVLC/caffe/wiki/Simple-Example:-Sin-Layer)
     * Add new layer to Caffe, [[링크]](http://blog.deepsemantic.com/2015/08/01/Add-new-layer-to-Caffe/)
   * TensorFlow Tutorial
+    * TensorFlow-Slim, [[링크]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
     * 텐서플로우(TensorFlow) 시작하기, [[링크]](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
     * Tensorflow Tutorial 2: image classifier using convolutional neural network, [[링크]](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
     * https://github.com/sherrym/tf-tutorial  
@@ -115,7 +124,7 @@
   * [A simple neural network module for relational reasoning 동영상 세미나](https://www.youtube.com/watch?v=Lb1PVpFp9F8&feature=youtu.be)
   
 ### Classification
- * model
+ * model   
    * Google Inception V3 : [[링크]](https://github.com/smichalowski/google_inception_v3_for_caffe)
    * ResNeXt(Aggregated Residual Transformations for Deep Neural Networks) : [[링크]](https://github.com/facebookresearch/ResNeXt)
   * googlenet : https://github.com/lim0606/caffe-googlenet-bn
@@ -129,6 +138,7 @@
      * https://github.com/yahoo/open_nsfw
      
 ### Compression Network
+ * SENet, Squeeze-and-Excitation Networks, [[링크]](https://github.com/hujie-frank/SENet)
  * ByteNet:Neural Machine Translation in Linear Time : [[링크]](https://arxiv.org/abs/1610.10099)
  * SliceNet : depthwise separable convolution
     * Xception: Deep learning with depthwise separable convolutions
@@ -250,7 +260,8 @@
  * Instance Segmentation
  * fcn
    * study 
-     * Fully convolutional networks for semantic segmentation. [[링크]](https://docs.google.com/presentation/d/10XodYojlW-1iurpUsMoAZknQMS36p7lVIfFZ-Z7V_aY/edit#slide=id.p)
+     * google slide : [[링크]](https://docs.google.com/presentation/d/1VeWFMpZ8XN7OC3URZP4WdXvOGYckoFWGVN7hApoXVnc/edit#slide=id.g19540bd54f_0_110)
+     * Fully convolutional networks for semantic segmentation. [[링크]](https://docs.google.com/presentation/d/10XodYojlW-1iurpUsMoAZknQMS36p7lVIfFZ-Z7V_aY/edit#slide=id.p)
    * tf version
      * https://github.com/yuxng/tensorflow-fcn
      * https://github.com/JindongJiang/FCN.tensorflow
@@ -271,10 +282,14 @@
    * TextBoxes, based SSD , [[링크]](https://github.com/MhLiao/TextBoxes)
    * Detecting Text in Natural Image with Connectionist Text Proposal Network, src, [[링크]](https://github.com/tianzhi0549/CTPN)
  * OCR 
- 
+   * Image OCR:model architecture : [[링크]](https://docs.google.com/presentation/d/1AyLOecmW1k9cIbfexOT3dwoUU-Uu5UqlJZ0w3cxilkI/pub?start=false&loop=false&delayms=3000&slide=id.g24e1cbac75_0_96)
+   
 ### Generative Model
  * Generative Model Adversarial Nets (GAN) 
-   * CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - 컨셉 : [링크]](https://mikigom.github.io/jekyll/update/2017/07/11/cyclegan.html)
+   * The GAN Zoo, :  [[링크]](https://deephunt.in/the-gan-zoo-79597dc8c347)
+   * Collection of generative models in Tensorflow, [[링크]](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+   * https://github.com/sanghoon/tf-exercise-gan :  [[링크]](https://github.com/sanghoon/tf-exercise-gan)
+   * CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - 컨셉 : [[링크]](https://mikigom.github.io/jekyll/update/2017/07/11/cyclegan.html)
    * Chainer 기반의 다양한 GAN 을 구현한 라이브러리 : [[링크]](https://github.com/pfnet-research/chainer-gan-lib)
    * (Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN : [[링크]](http://ddanggle.github.io/GANinTorch)  
    * Generative Models and GANs, [[링크]](https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b)
@@ -320,6 +335,7 @@
     * src, [[링크]](https://github.com/taki0112/Vector_Similarity)
 
 ### CNN For Text Classification
+ * Text-CNN을 이용한 Sentiment 분설모델 구현 : [[링크]](https://www.slideshare.net/langley0/textcnn-sentiment?from_m_app=android)
  * UNDERSTANDING CONVOLUTIONAL NEURAL NETWORKS FOR NLP, [[링크]](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
  * http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
  * 합성곱 신경망(CNN) 딥러닝을 이용한 한국어 문장 분류 : [[링크]](http://docs.likejazz.com/cnn-text-classification-tf/)
@@ -355,6 +371,7 @@
     * Billionscale similarity search with GPUs, https://arxiv.org/pdf/1702.08734.pdf
 
 ## NLP
+  * 딥러닝 기반 자연어처리 기법의 최근 연구 동향 : [[링크]](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
   * word2vec
     * Sentiment analysis on forum articles using word2vec and Keras : [[링크]](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/sentimental-analysis-word2vec-keras.ipynb) 
     * https://brunch.co.kr/@goodvc78/16 
