@@ -1,7 +1,12 @@
 ## Vision
 
 ## Machine Learning
+ * Likelihood
+   * Minimizing the Negative Log-Likelihood, in English : [[링크]](http://willwolf.io/2017/05/18/minimizing_the_negative_log_likelihood_in_english/)  
+ * Kullback-Leibler Divergence
+   * Kullback-Leibler Divergence Explained : [[링크]](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
  * Naive Bayes 
+   * Chapter 1 : Supervised Learning and Naive Bayes Classification — Part 1 (Theory) : [[링크]](https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5)
    * Naive Bayes - machine learning algorithm for classification problems : [[링크]](http://www.techleer.com/articles/200-naive-bayes-machine-learning-algorithm-for-classification-problems/)
  * logistic regression model
    * HOW THE LOGISTIC REGRESSION MODEL WORKS, [[링크]](https://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/)
@@ -19,6 +24,11 @@
 ## Deep Learning
 
 ### 이론 설명
+ * Analysis of Dropout : [[링크]](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
+ * Attention in Neural Networks and How to Use It : [[링크]](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)
+ * 루닛 논문 스터디 블로그, [[링크]](https://blog.lunit.io/)
+ * book
+    * pdf, MIT Deep Learning Book in PDF format : [[링크]](https://github.com/HFTrader/DeepLearningBook)
  * ML Camp Jeju 2017 tutorial : [[링크]](https://github.com/TensorFlowKR/MLJejuCamp/blob/master/04_FinalPresentation.md)
  * 딥러닝 교육 자료 (Deep Learning Lecture) : [[링크]](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
  * A guide to convolution arithmetic for deep learning : [[링크]](https://arxiv.org/abs/1603.07285)
@@ -32,6 +42,7 @@
  * Andrej Karpathy blog, Hacker's guide to Neural Networks, [[링크]](http://karpathy.github.io/neuralnets/)
  * http://aikorea.org/cs231n/neural-networks-2-kr/
  * Backpropagation
+    * Gradient Descent Optimization Algorithms 정리 : [[링크]](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
     * Gradient Descent Overview : [[링크]](https://brunch.co.kr/@chris-song/50)
     * Derivation of Backpropagation : [[링크]](https://nbviewer.jupyter.org/github/maka89/backprop/blob/master/backprop.ipynb)
     * Backpropagation 설명 예제와 함께 완전히 이해하기 : [[링크]](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)
@@ -52,21 +63,28 @@
  * Collection of morning papers on Convolutional Neural Networks, [[링크]](https://theinformationageblog.wordpress.com/2017/03/22/collection-of-morning-papers-on-convolutional-neural-networks/)  
  * Efficient Processing of Deep Neural Networks: A Tutorial and Survey, [[링크]](https://arxiv.org/abs/1703.09039)
  * CNNs from different viewpoints, Prerequisite: Basic neural networks, [[링크]](https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c)
- * batch normalization
+ * batch normalization    
    * ImageNet pre-trained models with batch normalization [[링크]](https://arxiv.org/abs/1612.01452)
      * https://github.com/cvjena/cnn-models/
      * http://www.inf-cv.uni-jena.de/Research/CNN+Models.html   
    * 정리
+     * Batch Normalization — What the hey? : [[링크]](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b)
      * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
      * http://sanghyukchun.github.io/88/
      * http://funmv2013.blogspot.kr/2016/09/batch-normalization.html
      * Lab: Batchnormalization Layer, [[링크]](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-10-6-mnist_nn_batchnorm.ipynb)
+     
+### Deep Reinforcement Learning
+ * StarCraft II - pysc2 Deep Reinforcement Learning Examples : [[링크]](https://github.com/chris-chris/pysc2-examples)
 
 ### RNN
+ * NMT
+   * Neural Machine Translation (seq2seq) Tutorial :  [[링크]](https://github.com/tensorflow/nmt/blob/master/README.md)
  * RNN 튜토리얼, [[링크]](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
  * (한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN), [[링크]](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
  * 챗봇
-   * tf, https://github.com/golbin/TensorFlow-Tutorials/tree/master/08%20-%20RNN/ChatBot
+   * DL Chatbot Seminar Day 01 : [[링크]](https://www.slideshare.net/JaeminCho6/dl-chatbot-seminar-day-01-80593691)
+   * tf, [[링크]](https://github.com/golbin/TensorFlow-Tutorials/tree/master/08%20-%20RNN/ChatBot)
  
 ### CNN
  * CNN을 모듈 방식의 관점, [[링크]](https://brunch.co.kr/@chris-song/23)
@@ -81,6 +99,10 @@
    * Picasso: A free open-source visualizer for Convolutional Neural Networks, [[링크]](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
    
 ### LIB
+  * PyTorch
+    * PyTorchZeroToAll : [[링크]](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
+    * Kind_PyTorch_Tutorial, [[링크]](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
+    * PyTorch in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=nbJ-2G2GXL0)
   * Caffe C++
     * Blobs, 계층들, 그리고 망들 : Caffe 모델 분석 : [[링크]](https://github.com/ys7yoo/BrainCaffe/wiki/Caffe-Tutorial-:-1.Blobs,-Layers,-and-Nets-(Kor))
     * DeepLearning-Caffe-Nets-Layers-Blobs: [[링크]](http://yujuwon.tistory.com/entry/DeepLearning-Caffe-Nets-Layers-Blobs)
@@ -92,6 +114,7 @@
     * Simple Example: Sin Layer, Making Your First Layer, [[링크]](https://github.com/BVLC/caffe/wiki/Simple-Example:-Sin-Layer)
     * Add new layer to Caffe, [[링크]](http://blog.deepsemantic.com/2015/08/01/Add-new-layer-to-Caffe/)
   * TensorFlow Tutorial
+    * TensorFlow Datasets 및 Estimators를 소개합니다. [[링크]](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html?m=1)
     * TensorFlow-Slim, [[링크]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
     * 텐서플로우(TensorFlow) 시작하기, [[링크]](http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
     * Tensorflow Tutorial 2: image classifier using convolutional neural network, [[링크]](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
@@ -113,9 +136,7 @@
     * 기본강의, [[링크]](https://www.youtube.com/watch?v=g-EvyKpZjmQ)
     * Introduction to PyTorch and TensorFlow : [[링크]](https://theinformationageblog.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
     * 코드 분석, [[링크]](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)    
-  * PyTorch
-    * Kind_PyTorch_Tutorial, [[링크]](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial)
-    * PyTorch in 5 Minutes, [[링크]](https://www.youtube.com/watch?v=nbJ-2G2GXL0)
+   
 
 ### Relation Network
   * A simple neural network module for relational reasoning : [paper ](https://arxiv.org/pdf/1706.01427.pdf)
@@ -190,6 +211,7 @@
 
 ### Localization
  * study
+   * 루닛블로그, R-CNNs Tutorial, [[링크]](https://blog.lunit.io/2017/06/01/r-cnns-tutorial/)
    * Object Localization and Detection, [[링크]](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
    * https://docs.google.com/presentation/d/1coDMqAVnorroIyrIloVf0hXDztyD6QVh5llvpX7VUDk/edit#slide=id.p  
    * A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, [[링크]](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
@@ -286,6 +308,7 @@
    
 ### Generative Model
  * Generative Model Adversarial Nets (GAN) 
+   * Deblur Photos Using Generic Pix2Pix, [[링크]](https://medium.com/machine-learning-world/deblur-photos-using-generic-pix2pix-6f8774f9701e)
    * The GAN Zoo, :  [[링크]](https://deephunt.in/the-gan-zoo-79597dc8c347)
    * Collection of generative models in Tensorflow, [[링크]](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
    * https://github.com/sanghoon/tf-exercise-gan :  [[링크]](https://github.com/sanghoon/tf-exercise-gan)
@@ -377,6 +400,7 @@
     * https://brunch.co.kr/@goodvc78/16 
 
 ## Math
+  * [Linear Algebra] Lecture 1, The Geometry of Linear Equations (1) : [[링크]](http://twlab.tistory.com/m/entry/Linear-Algebra-Lecture-1-Introduction-1)
   * Essence of linear algebra : [[링크]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * Linear algebra, https://www.slideshare.net/ssuser7e10e4/linear-algrbra
   
